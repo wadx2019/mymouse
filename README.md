@@ -5,6 +5,8 @@ The project is to operate the mouse with the aid of a camera and an imu.
 ## Dependencies -
 Please install all the required dependencies
 
+python=3.8
+
 openCV - (For image processing and drawing)
 
 mediapipe - (For Hand Tracking)
