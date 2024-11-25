@@ -19,7 +19,7 @@ To use this project, follow the steps below:
 1. Clone the repository:
 
 ```
-git clone https://github.com/<USERNAME>/AI-Virtual-Mouse.git
+git clone https://github.com/wadx2019/mymouse.git
 ```
 
 2. Install the required dependencies using 'pip':
